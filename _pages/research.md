@@ -6,25 +6,30 @@ author_profile: true
 ---
 
 
-**"Mide el ángulo formado**
+*"Mide el ángulo formado*
 
-**por ti y por mí**
+*por ti y por mí*
 
-**es la solución a algo muy común aquí"**
-
-
-*Una décima de segundo*, Antonio Vega, 1997. 
+*es la solución a algo muy común aquí"*
 
 ---
 
-My main research topic is Machine Learning, mostly **Kernel Methods** (Support Vector Machines, Spectral Clustering...) and their application in health and finances. These two fields share a few interesting characteristics that motivate my research:
+*Una décima de segundo*, Antonio Vega, 1997. 
+
+
+[Measuring the angle formed by you and me is the solution to something very common here] I couldn't find a greatest foreword to introduce kernel methods...
+
+
+---
+
+My main research topic is Machine Learning, mostly **Kernel Methods** (Support Vector Machines, Spectral Clustering...) and their application in **health** and **finances**. These two fields share a few interesting characteristics that motivate my research:
 - they are strongly regulated, so explainability of the models is at premium
 - datasets are usually small, and it is complicated to obtain realistic synthetic data
 - people without background in machine learning have been succesfully working in these fields for years and leveraging their expert domain knowledge to design machine learning models sounds like fun.
 
 Core machine learning research
 ------
-- Statistical Learning Theory: **PAC-Bayes** bounds to understand the generalization capabilities of machine learning models. 
+- Statistical Learning Theory: **PAC-Bayes** bounds to understand the generalization capabilities of machine learning models. This framework pursues to be able to asses the out-of-sample accuracy of models by looking at the in-sample accuracy. Therefore, one could use all the available training instances to learn the model, without leaving a separate validation set to estimate the learnt model generalization capability.
 - **Feature Engineering**, to cook patterns underlying in the available data in a more easy-to-digest way for the model
 - Introduction of **domain expert knowledge** in the design of the models. 
 

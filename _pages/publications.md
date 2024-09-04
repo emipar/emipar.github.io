@@ -14,7 +14,18 @@ author_profile: true
 *Rock and Roll Star*, Loquillo, 1980
 
 
+2024
+----
 
+Clara Álvarez-Rodríguez, Emilio Parrado-Hernández, Jorge Pérez-Aracil, Luis Prieto-Godino, Sancho Salcedo-Sanz. 2024. "Interpretable extreme wind speed prediction with concept bottleneck models." *Renewable Energy* 231, 120935
+
+Carlos Sevilla-Salcedo, Ascensión Gallardo-Antolín, Vanessa Gómez-Verdejo, Emilio Parrado-Hernández. 2024. "Bayesian learning of feature spaces for multitask regression." *Neural Networks* 179, 106619
+
+
+2023
+----
+
+Vanessa Gómez-Verdejo, Emilio Parrado-Hernández, Manel Martínez-Ramón. 2023. "Adaptive sparse gaussian process." *IEEE Transactions on Neural Networks and Learning Systems* 
 
 2019
 ----
