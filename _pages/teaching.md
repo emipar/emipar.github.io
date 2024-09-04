@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Course 2022-23
+Course 2024-25
 ====
 
 
