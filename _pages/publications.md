@@ -27,10 +27,13 @@ Carlos Sevilla-Salcedo, Ascensión Gallardo-Antolín, Vanessa Gómez-Verdejo, Em
 
 Vanessa Gómez-Verdejo, Emilio Parrado-Hernández, Manel Martínez-Ramón. 2023. "Adaptive sparse gaussian process." *IEEE Transactions on Neural Networks and Learning Systems* 
 
+M.C. Bravo, R. Jiménez, E. Parrado-Hernández,  J.J. Fernández and A. Pellicer. 2024. "Predicting effectiveness of drugs used for treating cardiovascular conditions in newborn infants." *Pediatric Research* 95(4), pp. 1124–1131
+
+
 2019
 ----
 
-Gomez-Verdejo, Vanessa, Emilio Parrado-Hernandez, and Jussi Tohka. 2019.
+Vanessa Gomez-Verdejo, Emilio Parrado-Hernandez, and Jussi Tohka. 2019.
 “Sign-Consistency Based Variable Importance for Machine Learning in
 Brain Imaging.” *Neuroinformatics* 17 (4): 593–609.
 
