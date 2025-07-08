@@ -13,6 +13,10 @@ author_profile: true
 
 *Rock and Roll Star*, Loquillo, 1980
 
+2025
+----
+
+M.C. Bravo, E. Parrado-Hernández, P. J. McNamara and A. Pellicer. 2025. "Predictive model of ibuprofen treatment failure in very preterm infants with patent ductus arteriosus using machine learning techniques". *Journal of Perinatology*.
 
 2024
 ----
