@@ -18,6 +18,8 @@ author_profile: true
 
 M.C. Bravo, E. Parrado-Hernández, P. J. McNamara and A. Pellicer. 2025. "Predictive model of ibuprofen treatment failure in very preterm infants with patent ductus arteriosus using machine learning techniques". *Journal of Perinatology*.
 
+Albert Belenguer-Llorens, Carlos Sevilla-Salcedo, Emilio Parrado-Hernández, Vanessa Gómez-Verdejo. 2025. "Addressing wide-data studies of gene expression microarrays with the Relevance Feature and Vector Machine". *Computers in Biology and Medicine*.
+
 2024
 ----
 
